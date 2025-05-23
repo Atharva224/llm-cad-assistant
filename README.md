@@ -63,11 +63,24 @@ Create a plate with 4 holes, spacing 20mm, and hole radius 3mm
 
 ### 📸 Screenshots
 
-Add your rendered screenshots like this:
+#### 🟡 Hollow Cube
+![Hollow Cube](Hollow%20cube.png)
 
-```markdown
-![preview](screenshot1.png)
-```
+#### 🟡 Solid Cube
+![Solid Cube](cube.png)
+
+#### 🟡 Hollow Cylinder
+![Hollow Cylinder](Hollow%20Cylinder.png)
+
+#### 🟡 Plate with Holes
+![Plate with Holes](plate%20with%20holes.png)
+
+#### 🟡 Stepped Cylinder
+![Stepped Cylinder](stepped%20cylinder.png)
+
+#### 🟡 Torus
+![Torus](torus.png)
+
 
 ---
 
