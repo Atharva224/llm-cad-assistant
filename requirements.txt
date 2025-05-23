@@ -1,1 +1,7 @@
+# requirements.txt
+
+streamlit  → for the web interface
+
+
+
 
